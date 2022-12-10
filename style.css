@@ -1,0 +1,102 @@
+:root {
+  --dark: #740d04;
+  --darker: #5d0a03;
+  --darkest: #460802;
+  --helper: rgb(237, 9, 165);
+  --white: #f6a39c;
+  --whiterr: rgb(254, 222, 222);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("images/sunny.jpg");
+  height: 100vh;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: top center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-size: cover;
+}
+
+.heading1 {
+  background-image: linear-gradient(
+    to bottom,
+    var(--darkest) 10%,
+    var(--helper) 80%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 2px 3px rgba(0, 0, 0, 0.4);
+}
+main {
+  background-image: linear-gradient(
+    to bottom,
+    var(--whiterr) 0%,
+    rgb(182, 61, 61) 90%
+  );
+  width: 50vh;
+  margin: 100px auto;
+
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  transition: 0.4s;
+}
+main:hover {
+  box-shadow: 10px 10px 6px #807e7e;
+}
+main > * {
+  margin-bottom: 20px;
+}
+
+.input-box {
+  width: 100%;
+  background-color: rgb(221, 212, 218);
+
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  font-size: 1.2rem;
+  height: 50px;
+  padding: 0 10px;
+  text-align: center;
+  color: var(--white);
+}
+.input-box:focus {
+  background-color: rgba(255, 255, 255);
+}
+.weather-body {
+  display: none;
+  color: #582233;
+  padding: 20px;
+  line-height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.6);
+  height: 50vh;
+}
+
+.location-details {
+  font-weight: bold;
+}
+
+.weather-status {
+  padding: 20px;
+}
+.temp {
+  font-size: 50pt;
+  font-weight: 700;
+  margin: 20px 0;
+  text-shadow: 2px 4px rgba(0, 0, 0, 0.3);
+}
+.min-max,
+.weather {
+  font-size: 12pt;
+  font-weight: 600;
+}
