@@ -26,6 +26,5 @@
 <h4>1-Change the background image based on the current weather conditions to create an immersive experience.</h4>
 <hr>
 </p>
-<img src="https://github.com/Pushpendra1723/Weather-App/assets/94159743/f5a968b2-deaf-49fc-9a70-39f9db56daae
-"  align="right" width="100px" height="70px">
+<img src="https://github.com/Pushpendra1723/Weather-App/assets/94159743/f5a968b2-deaf-49fc-9a70-39f9db56daae">
 <h6 align="center">copyright @ Pushpendra Kumar</h6>
