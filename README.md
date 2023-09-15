@@ -4,7 +4,7 @@
 <hr>
 
 <p align="left">
-  <img align="right" src="https://github.com/Pushpendra1723/Weather-App/assets/94159743/f5a968b2-deaf-49fc-9a70-39f9db56daae" height ="250px" width="300px">
+  <img align="right" src="https://github.com/Pushpendra1723/Weather-App/assets/94159743/f5a968b2-deaf-49fc-9a70-39f9db56daae" height ="250px" width="400px" margin-top="500px">
 <h4>The weather app was using HTML, CSS, and JavaScript that fetches data from a weather API . Here are some features and components you can include in your weather app:</h4>
 <br>
 <h3><strong>👉User Interface (HTML/CSS):</strong></h3>
