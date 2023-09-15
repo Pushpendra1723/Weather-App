@@ -4,12 +4,13 @@
 <hr>
 
 <p align="left">
-<h4>Creating a weather app using HTML, CSS, and JavaScript that fetches data from a weather API is a great project. Here are some features and components you can include in your weather app:</h4>
+  <img align="right" src="https://github.com/Pushpendra1723/Weather-App/assets/94159743/f5a968b2-deaf-49fc-9a70-39f9db56daae" height ="50px" width="50px">
+<h4>The weather app was using HTML, CSS, and JavaScript that fetches data from a weather API . Here are some features and components you can include in your weather app:</h4>
 <br>
 <h3><strong>👉User Interface (HTML/CSS):</strong></h3>
 
 <h4>1-Display for current weather conditions.</h4>
-<h4>2-Input field for users to search for weather by location (city or zip code).</h4>
+<h4>2-Input field for users to search for weather by location (city).</h4>
 <h4>3-Stylish and responsive design to provide a visually appealing user experience.</h4>
 <br>
 <h3><strong>👉Fetch Weather Data (JavaScript):</strong></h3>
@@ -26,5 +27,5 @@
 <h4>1-Change the background image based on the current weather conditions to create an immersive experience.</h4>
 <hr>
 </p>
-<img src="https://github.com/Pushpendra1723/Weather-App/assets/94159743/f5a968b2-deaf-49fc-9a70-39f9db56daae">
+
 <h6 align="center">copyright @ Pushpendra Kumar</h6>
